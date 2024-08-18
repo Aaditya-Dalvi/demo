@@ -1,2 +1,2 @@
 # demo
-This is a demo Repository for learning
+This is a demo for learning
